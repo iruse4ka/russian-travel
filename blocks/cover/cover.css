@@ -5,6 +5,7 @@
     flex-direction: column;
     align-items: center;
     width: 92.5%;
+    height: 740px;
     }
 
 @media screen and (max-width: 1279px) {
@@ -16,5 +17,25 @@
 @media screen and (max-width: 767px) {
     .cover {
         margin: 41px 0 0 0;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover {
+        margin: 41px 0 0 0;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cover {
+        height: 640px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .cover {
+        height: 480px;
     }
 }
