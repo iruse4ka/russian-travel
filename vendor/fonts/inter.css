@@ -12,8 +12,8 @@
   font-style:  normal;
   font-weight: bold;
   font-display: swap;
-  src: url("Inter-SemiBold.woff2?v=3.15") format("woff2"),
-       url("Inter-SemiBold.woff?v=3.15") format("woff");
+  src: url("Inter-Bold.woff2?v=3.15") format("woff2"),
+       url("Inter-Bold.woff?v=3.15") format("woff");
 }
 
 @font-face {

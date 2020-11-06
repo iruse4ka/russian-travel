@@ -17,9 +17,6 @@
 
 @media screen and (max-width: 767px) {
     .place__url-heading {
-        width: 0;
-        height: 0;
-        grid-row: 2/3;
-        padding: 0;
+        display: none;
     }
 }
