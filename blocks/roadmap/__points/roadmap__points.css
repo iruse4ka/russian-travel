@@ -1,0 +1,8 @@
+.roadmap__points {
+    position: absolute;
+    top: 14.67%;
+    left: 2.36%;
+    width: 95.23%;
+    padding-bottom: 25%;
+    z-index: 1;
+}

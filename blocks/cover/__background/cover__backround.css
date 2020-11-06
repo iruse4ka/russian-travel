@@ -1,0 +1,8 @@
+.cover__background {
+    background-image: url(../background.jpg);
+    margin: 0;
+    width: 100%;
+    padding-bottom: 62.5%;
+    background-size: cover;
+    background-position: center;
+    }
