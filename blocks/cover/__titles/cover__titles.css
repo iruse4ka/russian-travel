@@ -1,6 +1,6 @@
 .cover__titles {
     margin: 0;
-    padding-top: 20%;
+    padding: 0;
     width: 560px;
     display: flex;
     flex-direction: column;
@@ -11,6 +11,5 @@
 @media screen and (max-width: 760px) {
     .cover__titles {
         width: 288px;
-        padding-top: 10%;
-    }
+         }
 }

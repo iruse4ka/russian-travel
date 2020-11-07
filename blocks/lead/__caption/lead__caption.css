@@ -1,4 +1,4 @@
-.roadmap__caption {
+.lead__caption {
     margin: 0;
     font-size: 10px;
     line-height: 1.4;
@@ -11,13 +11,13 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .roadmap__caption {
+    .lead__caption {
         padding-left: 24px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .roadmap__caption {
+    .lead__caption {
         padding-left: 16px;
     }
 }

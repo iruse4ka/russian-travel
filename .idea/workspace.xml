@@ -5,12 +5,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e6a692-942b-47fc-a54a-2a4081b41874" name="Default Changelist" comment="New rep">
+    <list default="true" id="10e6a692-942b-47fc-a54a-2a4081b41874" name="Default Changelist" comment="Before 1st review">
+      <change afterPath="$PROJECT_DIR$/blocks/content/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/_span-accent/intro__list_span-accent.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__background/cover__backround.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__backround.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__background/cover__backround.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/__titles/cover__titles.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__titles/cover__titles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__link/intro__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/roadmap/__caption/roadmap__caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/roadmap/__image/kalegin-michail-179870-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/kalegin-michail-179870-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/roadmap/__image/roadmap__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/roadmap/__points/roadmap__points.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__points/lead__points.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/roadmap/__points/vector.svg" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__points/vector.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/roadmap/roadmap.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__roadmap/lead__roadmap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +39,7 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1jbjiHXa8bpc34DRtnkhTKlluGD" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -44,10 +61,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\brigh\dev\russian-travel\blocks\lead" />
       <recent name="C:\Users\brigh\dev\russian-travel\blocks\footer" />
       <recent name="C:\Users\brigh\dev\russian-travel\blocks" />
       <recent name="C:\Users\brigh\dev\russian-travel\blocks\lead\roadmap" />
-      <recent name="C:\Users\brigh\dev\russian-travel\blocks\lead" />
       <recent name="C:\Users\brigh\dev\russian-travel\blocks\header" />
     </key>
   </component>
@@ -72,7 +89,8 @@
       <workItem from="1604079814113" duration="61036000" />
       <workItem from="1604416418006" duration="34119000" />
       <workItem from="1604512485770" duration="17769000" />
-      <workItem from="1604570341443" duration="26574000" />
+      <workItem from="1604570341443" duration="31795000" />
+      <workItem from="1604755075941" duration="2464000" />
     </task>
     <task id="LOCAL-00001" summary="full-screen done">
       <created>1604340971548</created>
@@ -256,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604686672521</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Before 1st review">
+      <created>1604691379763</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604691379763</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +309,8 @@
     <MESSAGE value="сделала легче" />
     <MESSAGE value="сделала легче1" />
     <MESSAGE value="New rep" />
-    <option name="LAST_COMMIT_MESSAGE" value="New rep" />
+    <MESSAGE value="Before 1st review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before 1st review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="336" y="102" key="#Servers" timestamp="1604319578122">
@@ -367,14 +393,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604512329795" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604686676323">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604691399411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604686676323" />
-    <state x="727" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604689642304">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604691399411" />
+    <state x="727" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604691334233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="727" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604689642304" />
+    <state x="727" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604691334233" />
     <state x="194" y="70" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604505733742">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
