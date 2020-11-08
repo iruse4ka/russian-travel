@@ -1,0 +1,11 @@
+.place__main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 767px) {
+    .place__main {
+        flex-wrap: wrap;
+    }
+}

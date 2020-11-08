@@ -8,6 +8,9 @@
 
     }
 
+.cover__overlay:hover {
+    opacity: 0.8;
+}
 @media screen and (max-width: 760px) {
     .cover__titles {
         width: 288px;

@@ -9,10 +9,11 @@
     justify-items: center;
    }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 767px) {
     .photo-grid {
         width: 100%;
-        margin: 64px 0 0 0;
+        margin: 64px 0 0;
+        padding-bottom: 26px;
         gap: 12px;
 
 

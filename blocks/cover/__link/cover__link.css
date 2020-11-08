@@ -8,9 +8,13 @@
     padding: 0;
     text-decoration: none;
     color: #FFFFFF;
-    background-image: url(../background.jpg);
+    background-image: url(../../../images/background.jpg);
     width: 100%;
     height: 100%;
     background-size: cover;
     background-position: center;
+}
+
+.cover__link:hover .cover__overlay{
+    opacity: 0.8;
 }

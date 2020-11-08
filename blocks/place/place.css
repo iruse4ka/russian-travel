@@ -1,9 +1,9 @@
 .place {
     margin-top: 80px;
-    display: grid;
-    grid-template-columns: 460px auto;
-    grid-template-rows: repeat(5, min-content);
-    column-gap: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24,7 +24,6 @@
     .place {
         justify-items: center;
         margin: 0 auto;
-        display: grid;
         grid-template-columns: 100%;
         grid-template-rows: repeat(auto-fit, auto);
 
