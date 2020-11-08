@@ -1,7 +1,7 @@
 .places {
     justify-self: center;
     justify-items: center;
-    margin: 12px 0 0 0;
+    margin: 12px 0 0;
     width: 76.875%;
 }
 @media screen and (max-width: 767px) {
@@ -11,6 +11,7 @@
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .places {
+        margin: 40px 0 0;
         width: 93.75%;
     }
 }
